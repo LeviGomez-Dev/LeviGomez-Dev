@@ -17,7 +17,7 @@ I am a results-driven professional with a strong background in **Industrial Auto
 - **Languages:** Spanish (Native), Portugues (Advanced), English (Professional), Dutch (Learning).
 
 ### 📈 Featured Projects
-- [MAP-207 Automatic Sorting System](link-a-tu-repo-map207) - *Industrial logic at its finest.*
+- [MAP-207 Automatic Sorting System](https://github.com/LeviGomez-Dev/MAP-207) - *Industrial logic at its finest.*
 - [Industrial-Automation-Labs](link-a-tu-repo-labs) - *A collection of my technical training and practical exercises.*
 
 ---
