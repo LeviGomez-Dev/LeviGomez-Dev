@@ -19,6 +19,7 @@ I am a results-driven professional with a strong background in **Industrial Auto
 ### 📈 Featured Projects
 - [MAP-207 Automatic Sorting System](https://github.com/LeviGomez-Dev/MAP-207) - *Industrial logic at its finest.*
 - [Industrial-Automation-Labs](https://github.com/LeviGomez-Dev/Industrial-Automation-Labs) - *A collection of my technical training and practical exercises.*
+- [Python-Programming-Foundations](https://github.com/LeviGomez-Dev/Python-Programming-Foundations) - A collection of exercises and projects developed during the **"Introduction to Programming with Python"** course by Domestika.
 
 ---
 📫 **How to reach me:** (https://www.linkedin.com/in/levi-gomez-rivero/)
